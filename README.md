@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahammadhussain98&show_icons=true&locale=en" alt="mahammadhussain98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadhussain98&" alt="mahammadhussain98" /></p>
+##GitHub Trophies
+[![An image of @mahammadhussain98's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahammadhussain98)](https://holopin.io/@mahammadhussain98)
