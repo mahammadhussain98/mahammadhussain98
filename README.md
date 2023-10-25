@@ -29,4 +29,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahammadhussain98&" alt="mahammadhussain98" /></p>
 ##GitHub Trophies
-[![An image of @mahammadhussain98's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahammadhussain98)](https://holopin.io/@mahammadhussain98)
+<p> <img align="center" src="(https://holopin.me/mahammadhussain98)](https://holopin.io/@mahammadhussain98)"/></p>
